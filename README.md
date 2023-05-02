@@ -1,7 +1,9 @@
 ### Computer Networks
 
 On-going LAB exercises for Computer Networks Lab Class at 8th semester in ECE NTUA.
+
 Inside each directory you can find the exercise along with my answers.
+
 Both files are in greek.
 
 ---
